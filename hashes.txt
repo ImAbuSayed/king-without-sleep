@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - King Without Sleep
+
+This log tracks the cryptographic history and versioning for the song **King Without Sleep** (king-without-sleep).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T16:26:12.275452 | `v1` | `3045551bd76a96fd7ffe6538456769d4a1c52d2d3c23eea45520312a1faa0956` | `4469178105b22740aed4f64c62a94adc224ebe42a310c4d0c3282c95952e4788` | `2026-05-19_king-without-sleep-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

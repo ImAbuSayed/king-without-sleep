@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/king-without-sleep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for King Without Sleep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/king-without-sleep/) |
+| **Get License** | [Commercial Licensing for King Without Sleep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/king-without-sleep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3045551bd76a96fd7ffe6538456769d4a1c52d2d3c23eea45520312a1faa0956` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
